@@ -5,7 +5,7 @@ Um jogo baseado nos jogos da série Tower Defense, criado em Haskell no âmbito 
 
 ## Como correr o jogo
 
-O jogo pode ser corrido com o comando:
+O jogo pode ser corrido com o comando (se o cabal estiver instalado):
 
 ```bash
 cabal run
