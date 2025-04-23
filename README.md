@@ -28,3 +28,7 @@ Execute os testes com o comando `test` do Cabal e utilize a flag `--enable-cover
 ```bash
 cabal test --enable-coverage
 ```
+
+# Realizado por:
+- Gabriel Rodrigues
+- Simão Santos
