@@ -29,6 +29,22 @@ Execute os testes com o comando `test` do Cabal e utilize a flag `--enable-cover
 cabal test --enable-coverage
 ```
 
+Execute os exemplos da documentação como testes com a biblioteca
+[`doctest`](https://hackage.haskell.org/package/doctest). Para instalar o
+executavel utilize o comando `cabal install doctest`.
+
+```bash
+cabal repl --build-depends=QuickCheck,doctest --with-ghc=doctest --verbose=0
+```
+
+## Documentação
+
+A documentação do projeto pode ser gerada recorrendo ao [Haddock](https://haskell-haddock.readthedocs.io/).
+
+```bash
+cabal haddock
+```
+
 ### Realizado por:
 - Gabriel Rodrigues
 - Simão Santos
