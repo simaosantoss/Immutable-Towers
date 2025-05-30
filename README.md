@@ -1,6 +1,6 @@
 # Immutable Towers - LI1
 
-Um jogo baseado nos jogos da série Tower Defense, criado em Haskell no âmbito da cadeira de Laboratórios de Informática I, na licenciatura em Engenharia Informática da Universidade do Minho, no ano letivo 2024/25.
+Um jogo baseado nos jogos da série Tower Defense, criado em Haskell no âmbito da cadeira de Laboratórios de Informática I (1º ano, 1º semestre), na licenciatura em Engenharia Informática da Universidade do Minho, no ano letivo 2024/25.
 
 
 ## Executável
