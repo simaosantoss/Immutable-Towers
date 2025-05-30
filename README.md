@@ -4,7 +4,7 @@ Um jogo baseado nos jogos da série Tower Defense, criado em Haskell no âmbito 
 
 **O enunciado completo do projeto está disponível no ficheiro [`Enunciado.pdf`](Enunciado.pdf).**
 
-## Executável
+## 📦 Executável
 
 Pode compilar e executar o programa através dos comandos `build` e `run` do Cabal.
 
@@ -12,7 +12,7 @@ Pode compilar e executar o programa através dos comandos `build` e `run` do Cab
 cabal run --verbose=0
 ```
 
-## Interpretador
+## 🎮 Interpretador
 
 Para abrir o interpretador do Haskell (GHCi) com o projeto carregado, utilize o comando `repl` do Cabal
 
@@ -20,7 +20,7 @@ Para abrir o interpretador do Haskell (GHCi) com o projeto carregado, utilize o 
 cabal repl
 ```
 
-## Testes
+## 🧪 Testes
 
 O projecto utiliza a biblioteca [HUnit](https://hackage.haskell.org/package/HUnit) para fazer testes unitários.
 
@@ -38,7 +38,7 @@ executavel utilize o comando `cabal install doctest`.
 cabal repl --build-depends=QuickCheck,doctest --with-ghc=doctest --verbose=0
 ```
 
-## Documentação
+## 📚 Documentação
 
 A documentação do projeto pode ser gerada recorrendo ao [Haddock](https://haskell-haddock.readthedocs.io/).
 
@@ -46,6 +46,6 @@ A documentação do projeto pode ser gerada recorrendo ao [Haddock](https://hask
 cabal haddock
 ```
 
-### Realizado por:
+### 👥 Realizado por:
 - Gabriel Rodrigues
 - Simão Santos
