@@ -63,7 +63,7 @@ At the bottom are basic instructions for playing and exiting the menu or the gam
 
 ---
 
-### Game Interface (Example of Level 1)
+### Game Interface (Example of Level 2)
 
 ![Game Interface](./assets/level.png)
 
