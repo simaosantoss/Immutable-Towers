@@ -96,6 +96,17 @@ There are three types of towers you can buy and place on the map:
 
 ---
 
+## Projectile Synergies
+
+In this game, projectiles can interact with each other to create special effects on enemies:
+
+- **Fire + Resin**: When an enemy affected by Resin is hit by Fire projectiles, the fire damage over time effect is intensified.
+- **Fire + Ice**: Fire and Ice effects cancel each other out; if an enemy is under both effects, neither applies.
+- **Same projectile types**: Effects of the same projectile type stack by adding their durations.
+- **Other combinations**: If none of the above apply, the new projectile effect is simply added without synergy.
+
+---
+
 ## Enemies
 
 Enemies appear in waves through portals on the map. Each enemy has:
