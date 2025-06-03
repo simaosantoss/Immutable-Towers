@@ -148,6 +148,6 @@ Command syntax and instructions follow Portuguese conventions.
 
 ### 👥 Authors
 
-- Gabriel Rodrigues — [gabriellrrr](https://github.com/gabriellrrr)  
-- Simão Santos — [simaosantoss](https://github.com/simaosantoss)
+- [Gabriel Rodrigues](https://github.com/gabriellrrr)  
+- [Simão Santos](https://github.com/simaosantoss)
 
