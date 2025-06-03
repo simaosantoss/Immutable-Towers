@@ -138,6 +138,16 @@ Here is an image of a typical enemy:
 
 ---
 
-### 👥 Contributors:
-- Gabriel Rodrigues  
-- Simão Santos
+## 🇵🇹 Language
+
+The game interface and commands are in Portuguese, as this project was developed for a Portuguese university course.  
+
+Command syntax and instructions follow Portuguese conventions.
+
+---
+
+### 👥 Authors
+
+- Gabriel Rodrigues — [gabriellrrr](https://github.com/gabriellrrr)  
+- Simão Santos — [simaosantoss](https://github.com/simaosantoss)
+
